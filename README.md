@@ -47,8 +47,8 @@ Interactive Power BI dashboard analyzing Motorola mobile sales data to uncover s
  - Dashboard Image: Dashboard_preview.png
 
 # LinkedIn
- - Project showcased on LinkedIn
-https://www.linkedin.com/posts/diya-marvaniya-932088381_powerbi-dataanalytics-businessintelligence-activity-7420017056856739840
+ - Project showcased on LinkedIn: 
+ https://www.linkedin.com/posts/diya-marvaniya-932088381_powerbi-dataanalytics-businessintelligence-activity-7420017056856739840
 
 
 
